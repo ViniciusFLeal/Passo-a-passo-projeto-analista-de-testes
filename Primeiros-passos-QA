@@ -1,0 +1,128 @@
+
+### Abaixo estão alguns passos que o Analista de testes(QA) deve seguir ao iniciar um projeto ###
+
+### RESUMO ###
+Se você está atuando como Analista de Testes (ou QA – Quality Assurance), 
+o seu foco será garantir a qualidade do software desde o início do projeto até a entrega final,
+com ênfase nas atividades relacionadas a testes e validação.
+
+Aqui está o passo a passo do ponto de vista de um Analista de Testes:
+
+------------------------------------------------------------------------------------------------
+
+✅ 1. Levantamento/analise dos Requisitos junto ao cliente
+Objetivo: Compreender claramente o que será testado.
+
+Participar das reuniões com cliente/PO para entender os requisitos.
+
+Analisar histórias de usuário, casos de uso e critérios de aceitação.
+
+Levantar dúvidas e inconsistências nos requisitos.
+
+Auxiliar na definição de requisitos testáveis (testabilidade).
+
+📌 Entregáveis: Checklist de requisitos, dúvidas registradas, critérios de aceitação validados.
+
+------------------------------------------------------------------------------------------------
+
+✍️ 2. Planejamento de Testes
+Objetivo: Planejar estrategicamente como será feito o teste.
+
+Definir a estratégia de testes (tipos de teste, ambientes, ferramentas).
+
+Elaborar o Plano de Testes (níveis, escopo, cronograma, responsáveis).
+
+Identificar riscos e necessidades específicas de ambiente ou dados.
+
+📌 Entregáveis: Plano de Testes documentado, cronograma de execução.
+
+------------------------------------------------------------------------------------------------
+
+
+🛠️ 3. Preparação de Casos de Teste
+Objetivo: Criar a base para a execução dos testes.
+
+Escrever casos de teste com base nos requisitos e critérios de aceitação.
+
+Criar roteiros de teste manuais ou scripts automatizados.
+
+Preparar massa de dados e configurar ambiente de testes.
+
+📌 Entregáveis: Casos de teste, scripts automatizados, massa de dados de teste.
+
+
+------------------------------------------------------------------------------------------------
+
+▶️ 4. Execução dos Testes
+Objetivo: Verificar se o sistema atende aos requisitos.
+
+Executar testes manuais e/ou automatizados.
+
+Registrar os resultados e evidências (prints, logs, relatórios).
+
+Verificar comportamento esperado x comportamento real.
+
+📌 Entregáveis: Registro de execução, evidências de teste, status dos testes.
+
+------------------------------------------------------------------------------------------------
+
+
+🐞 5. Registro e Acompanhamento de Defeitos
+Objetivo: Garantir que todos os problemas sejam documentados e resolvidos.
+
+Reportar bugs com detalhes (reprodução, impacto, evidência).
+
+Priorizar e classificar os defeitos (crítico, alto, médio, baixo).
+
+Acompanhar a correção e reexecutar testes após correções (retestes).
+
+📌 Entregáveis: Tickets de bugs, histórico de correções, testes reexecutados.
+
+------------------------------------------------------------------------------------------------
+
+
+🔁 6. Testes de Regressão
+Objetivo: Garantir que funcionalidades anteriores não foram impactadas.
+
+Executar novamente testes em áreas já validadas.
+
+Usar scripts automatizados, se disponíveis, para ganhar tempo.
+
+📌 Entregáveis: Log de testes de regressão, relatório de estabilidade.
+
+
+------------------------------------------------------------------------------------------------
+
+
+📋 7. Testes de Aceitação
+Objetivo: Validar o sistema junto ao cliente/usuário final.
+
+Auxiliar na execução de testes UAT (User Acceptance Test).
+
+Garantir que o produto atenda às expectativas e esteja pronto para produção.
+
+📌 Entregáveis: Ata de aceite, checklist de validação final.
+
+
+------------------------------------------------------------------------------------------------
+
+
+🚀 8. Apoio à Entrega e Pós-GoLive
+Objetivo: Monitorar e dar suporte na produção.
+
+Auxiliar na validação pós-implantação (smoke test em produção).
+
+Apoiar a equipe na análise de erros em produção.
+
+Registrar lições aprendidas para melhoria contínua.
+
+📌 Entregáveis: Validação pós-GoLive, relatório final de QA, feedback.
+
+------------------------------------------------------------------------------------------------
+
+🧩 Extras: Atividades de Melhoria Contínua
+Participar de retrospectivas para sugerir melhorias no processo.
+
+Medir métricas de qualidade (ex: taxa de defeitos, tempo de resolução).
+
+Atualizar documentação e base de conhecimento da equipe de QA.
